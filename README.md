@@ -4,4 +4,5 @@ Flask app that sends data to Postgres database and emails user when someone send
 
 
 Using: Mailtrap
+
 Photos: unsplash.com
